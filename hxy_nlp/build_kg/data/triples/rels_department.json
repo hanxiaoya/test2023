@@ -1,0 +1,26 @@
+[
+    [
+        "呼吸内科",
+        "belongs_to",
+        "内科",
+        "Department",
+        "Department",
+        "属于"
+    ],
+    [
+        "小儿内科",
+        "belongs_to",
+        "儿科",
+        "Department",
+        "Department",
+        "属于"
+    ],
+    [
+        "其他综合",
+        "belongs_to",
+        "其他科室",
+        "Department",
+        "Department",
+        "属于"
+    ]
+]
